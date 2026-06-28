@@ -222,9 +222,9 @@ http://localhost:8501
 
 ### 🚀 Open For Opportunities
 
-✅ **Internship** — Looking for AI/ML internship opportunities
+✅ **Internship** — Looking for AI Agent Enginner internship opportunities
 
-✅ **Full Time Job** — Open for AI Engineer, ML Engineer, Data Scientist roles
+✅ **Full Time Job** — Open for AI Agent Engineer, GenAI Enginner, Agentic AI Developer
 
 ✅ **Freelancing** — Available for freelance AI and Python development projects
 
@@ -238,7 +238,7 @@ http://localhost:8501
 
 **⭐ If you found this project helpful, please give it a star on GitHub! ⭐**
 
-*Built with ❤️ by Kumar Basu Singh*
+*Built  by Kumar Basu Singh*
 
 </div>
 
