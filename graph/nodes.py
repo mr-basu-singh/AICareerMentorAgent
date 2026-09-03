@@ -9,7 +9,7 @@ load_dotenv()
 
 # Initialize LLM and Tavily
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-20b",
     api_key=os.getenv("GROQ_API_KEY")
 )
 
@@ -139,3 +139,4 @@ def generate_roadmap_node(state: RoadmapState) -> dict:
         "roadmap": response.content,
         "is_complete": True
     }
+    
